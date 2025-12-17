@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vivek\\source\\repos\\Digital_Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7652926-447C-4632-87BC-197E742A5DED}|Digital_Library\\DigitalLibrary.csproj|c:\\users\\vivek\\source\\repos\\digital_library\\digital_library\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7652926-447C-4632-87BC-197E742A5DED}|Digital_Library\\DigitalLibrary.csproj|solutionrelative:digital_library\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7652926-447C-4632-87BC-197E742A5DED}|Digital_Library\\DigitalLibrary.csproj|c:\\users\\vivek\\source\\repos\\digital_library\\digital_library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7652926-447C-4632-87BC-197E742A5DED}|Digital_Library\\DigitalLibrary.csproj|solutionrelative:digital_library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7652926-447C-4632-87BC-197E742A5DED}|Digital_Library\\DigitalLibrary.csproj|c:\\users\\vivek\\source\\repos\\digital_library\\digital_library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7652926-447C-4632-87BC-197E742A5DED}|Digital_Library\\DigitalLibrary.csproj|solutionrelative:digital_library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7652926-447C-4632-87BC-197E742A5DED}|Digital_Library\\DigitalLibrary.csproj|c:\\users\\vivek\\source\\repos\\digital_library\\digital_library\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7652926-447C-4632-87BC-197E742A5DED}|Digital_Library\\DigitalLibrary.csproj|solutionrelative:digital_library\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Digital_Library\\Digital_Library\\Validation.cs",
+              "RelativeDocumentMoniker": "Digital_Library\\Validation.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Digital_Library\\Digital_Library\\Validation.cs",
+              "RelativeToolTip": "Digital_Library\\Validation.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:25:32.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryManager.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Digital_Library\\Digital_Library\\LibraryManager.cs",
+              "RelativeDocumentMoniker": "Digital_Library\\LibraryManager.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Digital_Library\\Digital_Library\\LibraryManager.cs",
+              "RelativeToolTip": "Digital_Library\\LibraryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:13:23.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Digital_Library\\Digital_Library\\Book.cs",
+              "RelativeDocumentMoniker": "Digital_Library\\Book.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Digital_Library\\Digital_Library\\Book.cs",
+              "RelativeToolTip": "Digital_Library\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:13:07.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Digital_Library\\Digital_Library\\Program.cs",
+              "RelativeDocumentMoniker": "Digital_Library\\Program.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Digital_Library\\Digital_Library\\Program.cs",
+              "RelativeToolTip": "Digital_Library\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:11:13.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

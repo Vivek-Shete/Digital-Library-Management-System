@@ -1,0 +1,14 @@
+C:\Users\vivek\source\repos\Digital_Library\Digital_Library\bin\Debug\net8.0\DigitalLibrary.exe
+C:\Users\vivek\source\repos\Digital_Library\Digital_Library\bin\Debug\net8.0\DigitalLibrary.deps.json
+C:\Users\vivek\source\repos\Digital_Library\Digital_Library\bin\Debug\net8.0\DigitalLibrary.runtimeconfig.json
+C:\Users\vivek\source\repos\Digital_Library\Digital_Library\bin\Debug\net8.0\DigitalLibrary.dll
+C:\Users\vivek\source\repos\Digital_Library\Digital_Library\bin\Debug\net8.0\DigitalLibrary.pdb
+C:\Users\vivek\source\repos\Digital_Library\Digital_Library\obj\Debug\net8.0\DigitalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek\source\repos\Digital_Library\Digital_Library\obj\Debug\net8.0\DigitalLibrary.AssemblyInfoInputs.cache
+C:\Users\vivek\source\repos\Digital_Library\Digital_Library\obj\Debug\net8.0\DigitalLibrary.AssemblyInfo.cs
+C:\Users\vivek\source\repos\Digital_Library\Digital_Library\obj\Debug\net8.0\DigitalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vivek\source\repos\Digital_Library\Digital_Library\obj\Debug\net8.0\DigitalLibrary.dll
+C:\Users\vivek\source\repos\Digital_Library\Digital_Library\obj\Debug\net8.0\refint\DigitalLibrary.dll
+C:\Users\vivek\source\repos\Digital_Library\Digital_Library\obj\Debug\net8.0\DigitalLibrary.pdb
+C:\Users\vivek\source\repos\Digital_Library\Digital_Library\obj\Debug\net8.0\DigitalLibrary.genruntimeconfig.cache
+C:\Users\vivek\source\repos\Digital_Library\Digital_Library\obj\Debug\net8.0\ref\DigitalLibrary.dll
